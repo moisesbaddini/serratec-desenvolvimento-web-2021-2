@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "title": "Pitchulinha",
+      "qtde": 4,
+      "descricao": "Guaraná vendido na década de 90",
+      "imagem": "https://i.pinimg.com/originals/fb/1e/e3/fb1ee3e5841049aa219f40a9bc3e8dd3.jpg",
+      "id": 1
+    },
+    {
+      "title": "Paçoca",
+      "qtde": 425,
+      "descricao": "Maravilhoso doce feito com amendoim",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Paçoca.jpg",
+      "id": 2
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}

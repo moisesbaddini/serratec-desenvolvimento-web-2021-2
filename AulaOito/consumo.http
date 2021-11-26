@@ -1,0 +1,20 @@
+PUT http://localhost:8080/produtos/1
+Content-Type: application/json
+
+{
+  "title": "Pitchulinha",
+  "qtde": 4,
+  "descricao": "Guaraná vendido na década de 90",
+  "imagem": "https://i.pinimg.com/originals/fb/1e/e3/fb1ee3e5841049aa219f40a9bc3e8dd3.jpg"
+}
+
+###
+PUT http://localhost:8080/produtos/2
+Content-Type: application/json
+
+{
+  "title": "Paçoca",
+  "qtde": 425,
+  "descricao": "Maravilhoso doce feito com amendoim",
+  "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Paçoca.jpg"
+}
